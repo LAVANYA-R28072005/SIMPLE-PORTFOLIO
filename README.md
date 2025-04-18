@@ -59,4 +59,4 @@ This is a **personal portfolio website** created using basic **HTML** and **CSS*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone (https://github.com/LAVANYA-R28072005/SIMPLE-PORTFOLIO.git)
