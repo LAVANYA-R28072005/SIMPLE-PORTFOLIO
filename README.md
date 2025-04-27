@@ -5,13 +5,6 @@ This is a **personal portfolio website** created using basic **HTML** and **CSS*
 
 ---
 
-## 🌟 Live Demo
-
-🔗 [View Live on GitHub Pages](https://LAVANYA-R28072005.github.io/SIMPLE-PORTFOLIO)
-
-> *(Replace this link with your actual GitHub Pages link after deployment)*
-
----
 
 ## 📂 Project Structure
 
