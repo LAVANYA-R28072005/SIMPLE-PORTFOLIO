@@ -31,6 +31,7 @@ This is a **personal portfolio website** created using basic **HTML** and **CSS*
 - **CSS3** – Styling and animations
 - Responsive design using **media queries**
 - Hover effects and transitions
+- Jupyter notebook or notepad
 
 ---
 
